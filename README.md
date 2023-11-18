@@ -16,8 +16,7 @@ Execute the program
 <html>
  
 <body>
-    <centre>
-    <img align="centre" src="logo.png" width="700"height="100" border="5" >
+    
 
     <h1 align="centre">TIME TABLE</h1>
     <table border="10" cellspacing="2" >
