@@ -118,3 +118,5 @@ Execute the program
 
 # OUPUT
 ![Alt text](<Screenshot 2023-11-18 124030.png>)
+# RESULT
+This program was executed succesfully
